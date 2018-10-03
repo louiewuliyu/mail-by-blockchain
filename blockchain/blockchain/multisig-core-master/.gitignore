@@ -1,0 +1,14 @@
+*.bin
+.idea
+*.iml
+*.egg-info
+*.pyc
+dist
+build
+*.swp
+*.hex
+out
+.ipynb_checkpoints
+.eggs
+scratch.*
+
